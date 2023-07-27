@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 😄 My Name is Prateek Uniyal
+- 🌱 I’m currently learning the MERN stack, AWS & git
+- 🔭 I’m currently working on [ApnaMedic](https://github.com/clipmycode/apnaMedic)
+- 📫 Hit me up - prateekkuniyal@gmail.com 
 
 <!--
 **uniyall/uniyall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
