@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 My Name is Prateek Uniyal
-- 🌱 I’m currently learning the MERN stack, AWS & GIT
+- 🌱 I’m currently learning React, Firebase, AWS & GIT
 - 🔭 I’m currently working on [ApnaMedic](https://github.com/clipmycode/apnaMedic)
 - 📫 Hit me up - prateekkuniyal@gmail.com 
 
