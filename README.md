@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 My Name is Prateek Uniyal
-- 🌱 I’m currently learning MERN, AWS and mobile app technologies
+- 🌱 I’m currently learning Devops
 - 📫 Hit me up - prateekkuniyal@gmail.com 
 
 <!--
