@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 My Name is Prateek Uniyal
-- 🌱 I’m currently learning Devops
+- 🌱 I’m currently learning Web Development
 - 📫 Hit me up - prateekkuniyal@gmail.com 
 
 <!--
