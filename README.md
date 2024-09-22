@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 My Name is Prateek Uniyal
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning MERN stack and AWS
 - 📫 Hit me up - prateekkuniyal@gmail.com 
 
 <!--
